@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fa569c4-84b7-4a06-b301-5d9040e0bc63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1r3Brs5X6hRGSNNC5nVj867YeRo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.22528736" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.LinkIntersect">
+    <configuration name="LinkIntersect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="link.LinkIntersect" />
+      <module name="note_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="link.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoLinkAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="link.TwoLinkAdd" />
+      <module name="note_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="link.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoStacksQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stackAndqueue.TwoStacksQueue" />
+      <module name="note_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stackAndqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkIntersect" />
+        <item itemvalue="Application.TwoLinkAdd" />
+        <item itemvalue="Application.TwoStacksQueue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fa569c4-84b7-4a06-b301-5d9040e0bc63" name="Default Changelist" comment="" />
+      <created>1618195094841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618195094841</updated>
+      <workItem from="1618195098642" duration="3930000" />
+      <workItem from="1618661882932" duration="2190000" />
+      <workItem from="1618717117535" duration="1784000" />
+      <workItem from="1618796157221" duration="5235000" />
+      <workItem from="1618839497408" duration="2991000" />
+      <workItem from="1619762211372" duration="4938000" />
+      <workItem from="1622940376368" duration="5307000" />
+      <workItem from="1624552033216" duration="4194000" />
+      <workItem from="1624557517076" duration="127000" />
+      <workItem from="1624557738705" duration="1459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1624555099093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1624555099093" />
+    <state x="651" y="274" key="#Notifications" timestamp="1624557754530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="651" y="274" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1624557754530" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1618662017672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618662017672" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1624557441478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624557441478" />
+    <state x="579" y="331" key="Gitee.CreateGistDialog" timestamp="1624556616152">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="331" key="Gitee.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1624556616152" />
+    <state width="1476" height="42" key="GridCell.Tab.0.bottom" timestamp="1618817319289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="42" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618817319289" />
+    <state width="1476" height="42" key="GridCell.Tab.0.center" timestamp="1618817319289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="42" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618817319289" />
+    <state width="1476" height="42" key="GridCell.Tab.0.left" timestamp="1618817319289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="42" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618817319289" />
+    <state width="1476" height="42" key="GridCell.Tab.0.right" timestamp="1618817319289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="42" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618817319289" />
+    <state width="1476" height="2" key="GridCell.Tab.1.bottom" timestamp="1618664073913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618664073913" />
+    <state width="1476" height="2" key="GridCell.Tab.1.center" timestamp="1618664073913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="2" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618664073913" />
+    <state width="1476" height="2" key="GridCell.Tab.1.left" timestamp="1618664073913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="2" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618664073913" />
+    <state width="1476" height="2" key="GridCell.Tab.1.right" timestamp="1618664073913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="2" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618664073913" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1624559759213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618197099912" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1624559759213" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1624557903745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624557903745" />
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624555225049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1624555225049" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1618195322402">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618195322402" />
+  </component>
+</project>
