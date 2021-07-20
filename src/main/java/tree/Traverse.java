@@ -1,6 +1,8 @@
 package tree;
 
 
+import vo.Node;
+
 import java.util.Stack;
 
 /**
@@ -8,15 +10,7 @@ import java.util.Stack;
  * @Description 二叉树遍历问题
  * @Date 2021/04/30 星期五 14:05
  */
-public class Node {
-
-    int val;
-    Node left;
-    Node right;
-
-    Node(int data) {
-        this.val = data;
-    }
+public class Traverse {
 
     /**
      * 递归，先序遍历
@@ -335,7 +329,7 @@ public class Node {
         node3.right = node7;
         node3.left = node6;
 
-        node1.morrisIn(node1);
+        new Traverse().morrisIn(node1);
     }
 
 
