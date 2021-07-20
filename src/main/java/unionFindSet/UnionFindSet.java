@@ -8,7 +8,7 @@ import java.util.Stack;
 
 /**
  * @Author LHJ_Jack
- * @Description TODO
+ * @Description 并查集通用模板
  * @Date 2021/07/20 星期二 9:10
  */
 public class UnionFindSet<V> {

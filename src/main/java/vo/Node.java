@@ -2,7 +2,7 @@ package vo;
 
 /**
  * @Author LHJ_Jack
- * @Description TODO
+ * @Description 二叉树结点
  * @Date 2021/07/20 星期二 10:27
  */
 public class Node {

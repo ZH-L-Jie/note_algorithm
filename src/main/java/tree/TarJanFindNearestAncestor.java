@@ -11,10 +11,13 @@ import java.util.List;
 
 /**
  * @Author LHJ_Jack
- * @Description TODO
+ * @Description 批量处理二叉树的最近祖先问题，TarJan主要的的思路是结合并查集查找到连接在一起的节点，
+ * 再把需要查询的数据用两个map存储，方便再一次查询
  * @Date 2021/07/20 星期二 10:33
  */
 public class TarJanFindNearestAncestor {
+
+    //主方法
     public Node[] TarJanQuery(Node head, Query[] quries) {
         HashMap<Node, LinkedList<Node>> queryMap = new HashMap<>();
         HashMap<Node, LinkedList<Integer>> indexMap = new HashMap<>();
@@ -26,12 +29,22 @@ public class TarJanFindNearestAncestor {
         return ans;
     }
 
+    /**
+     * 获取全部的节点数据，返回list
+     * @param head
+     * @return
+     */
     public List<Node> getAllNode(Node head) {
         ArrayList<Node> res = new ArrayList<>();
         process(head, res);
         return res;
     }
 
+    /**
+     * 前序遍历，遍历结果加入list中
+     * @param head
+     * @param res
+     */
     public void process(Node head, ArrayList<Node> res) {
         if (head == null) {
             return;
@@ -41,6 +54,13 @@ public class TarJanFindNearestAncestor {
         process(head.right, res);
     }
 
+    /**
+     * 加工TarJan的两个记录结点祖先的节点和结果存入的位置
+     * @param quries
+     * @param ans
+     * @param queryMap
+     * @param indexMap
+     */
     public void setQueriesAndSetEasyAnswers(Query[] quries, Node[] ans, HashMap<Node, LinkedList<Node>> queryMap,
                                             HashMap<Node, LinkedList<Integer>> indexMap) {
         Node o1 = null;
@@ -67,9 +87,19 @@ public class TarJanFindNearestAncestor {
         }
     }
 
-
+    /**
+     * 后序遍历，第一次遍历节点时查看祖先是否有祖先且为空，则把祖先设为自己；不是则选集合的代表节点为祖先节点，得到的
+     * 结果这存入ans数组中
+     * @param head
+     * @param ans
+     * @param queryMap
+     * @param indexMap
+     * @param ancestorMap
+     * @param sets
+     */
     public void setAnswers(Node head, Node[] ans, HashMap<Node, LinkedList<Node>> queryMap,
-                           HashMap<Node, LinkedList<Integer>> indexMap, HashMap<Node, Node> ancestorMap, UnionFindSet<Node> sets) {
+                           HashMap<Node, LinkedList<Integer>> indexMap, HashMap<Node, Node> ancestorMap,
+                           UnionFindSet<Node> sets) {
         if (head != null) {
             return;
         }

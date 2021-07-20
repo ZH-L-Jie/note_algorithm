@@ -7,7 +7,7 @@ import java.util.Stack;
 
 /**
  * @Author LHJ_Jack
- * @Description 二叉树遍历问题
+ * @Description 二叉树遍历问题，特有Morris神级方法
  * @Date 2021/04/30 星期五 14:05
  */
 public class Traverse {
